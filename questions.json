@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is 0.195% percentage as a decimal?",
+    "options": ["0.0195", "0.00195", "0.000195", "1.95"],
+    "correct": 1
+  },
+  {
+    "question": "What is the result of 0.9875 x 100,000?",
+    "options": ["9875", "98750", "987500", "98705"],
+    "correct": 1
+  },
+  {
+    "question": "What is the calculated product of 1.77 and 22.2?",
+    "options": ["34.225", "39.235", "39.294", "35.335"],
+    "correct": 2
+  },
+  {
+    "question": "What is the product of $123.456 and 10,000?",
+    "options": ["12,345,600", "1,234,560", "123,456", "1,234.56"],
+    "correct": 1
+  },
+  {
+    "question": "How will you write 55.555% as a decimal?",
+    "options": ["0.5555", "0.055555", "0.55555", "0.005555"],
+    "correct": 2
+  }
+]
